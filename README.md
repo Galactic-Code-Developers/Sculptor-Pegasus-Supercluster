@@ -1,6 +1,7 @@
 # Sculptor-Pegasus-Supercluster
 
-
+**Superstructure Analysis:** Similar to the Serpens-Corona Borealis, the "Unveiling the Largest Structures in the Nearby Universe" study offers information on the Sculptor-Pegasus superstructure. 
+[ARXIV](<https://arxiv.org/html/2501.19236v1>)
 
 ## License
 
